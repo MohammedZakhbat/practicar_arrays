@@ -1,9 +1,9 @@
 const animals = [
-  "🐶 Chien",
-  "🐱 Chat",
-  "🐰 Lapin",
-  "🦊 Renard",
-  "🐵 Singe"
+  "🐶 Perro",
+  "🐱 Gato",
+  "🐰 Conejo",
+  "🦊 Zorro",
+  "🐵 Mono"
 ];
 
 let index = 0;
